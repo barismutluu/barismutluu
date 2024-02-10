@@ -3,6 +3,9 @@
 <h3 align="center">A passionate full-stack developer and software test engineer from Turkey</h3>
 
 - 📫 How to reach me **baris_mutlu@outlook.com.tr**
+- 👀 I’m interested in Java, Javascript, HTML, CSS, React [Fullstack Dev]
+- 🌱 I’m currently learning Java
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
