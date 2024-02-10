@@ -5,7 +5,6 @@
 - 📫 How to reach me **baris_mutlu@outlook.com.tr**
 - 👀 I’m interested in Java, Javascript, HTML, CSS, React [Fullstack Dev]
 - 🌱 I’m currently learning Java
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
