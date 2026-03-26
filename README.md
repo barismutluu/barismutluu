@@ -1,4 +1,4 @@
-![MasterHead](https://www.9series.com/img/services/full-stack/best%20Full%20Stack%20development%20company%20in%20India.jpg)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQEVLnfwsTn3lg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1689670755635?e=1776297600&v=beta&t=-68tk4IVkwQTFTLyBj7Pg38wd13J8TCnIOjG9_py2rI)
 
 <h1 align="center">Hi 👋, I'm Barış Mutlu</h1>
 <h3 align="center">Software Engineer | Test Automation & Fullstack Development</h3>
