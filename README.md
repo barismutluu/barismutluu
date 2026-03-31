@@ -1,14 +1,20 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQEVLnfwsTn3lg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1689670755635?e=1776297600&v=beta&t=-68tk4IVkwQTFTLyBj7Pg38wd13J8TCnIOjG9_py2rI)
 
 <h1 align="center">Hi 👋, I'm Barış Mutlu</h1>
-<h3 align="center">Software Engineer | Test Automation & Fullstack Development</h3>
+<h3 align="center">Junior Software Engineer | Backend & Test Automation</h3>
 
 ---
 
-🔍 Software Engineer with a strong focus on **test automation and software quality**  
-🧪 Experienced in **Selenium-based web test automation** and backend development  
-📱 Currently improving **Appium-based mobile test automation (Android)** skills  
-💻 Building reliable automation frameworks while developing fullstack projects  
+🚀 Junior Software Engineer focused on **backend development and test automation**  
+🧪 Building and improving **test automation frameworks** using Selenium  
+⚙️ Working on **Backend development and API design**  
+💻 Background in **fullstack development**, currently focusing on backend systems  
+
+📈 Built automation test scenarios and worked on improving test coverage  
+🚀 Developed test automation projects using Selenium and API testing tools  
+
+🔹 Interested in **clean code, testability, and scalable systems**  
+🔹 Motivated to improve **software quality through automation**
 
 📫 How to reach me: **baris_mutlu@outlook.com.tr**
 
@@ -16,19 +22,28 @@
 
 ### 💡 Interests
 - Test Automation (Web & Mobile)
+- Backend Development & API Testing
 - Software Quality Assurance
-- Fullstack Development
-- Backend & API Testing
 - Automation Framework Design
 - Continuous Learning
 
 ---
 
-### 🌱 Currently Learning
-- Appium for Android mobile test automation  
-- Page Object Model (POM) framework improvements  
-- CI/CD integration basics for automation tests  
+### 🛠 Tech Stack
+- Java / Spring Boot  
+- JavaScript / Node.js
+- SQL (PostgreSQL / MySQL) 
+- Selenium / Appium  
+- REST APIs / Postman  
+- Git / GitHub  
 
+---
+
+### 🌱 Currently Learning
+- Backend architecture (clean architecture, layered design)  
+- RESTful API design & best practices  
+- Database design & SQL optimization  
+- Authentication & Authorization (JWT basics)  
 ---
 
 <h3 align="left">Connect with me:</h3>
